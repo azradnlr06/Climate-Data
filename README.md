@@ -8,7 +8,7 @@ Meteoroloji Genel Müdürlüğünden alınan gerçek veriler ile Doğu Karadeniz
 - Power BI da DAX fonksiyonu ile aykırı yıl ve değer 
 
 ## Kullanılan Teknolojiler
-- Google Colab, Python, Power BI, Dax
+- Google Colab, Python, Power BI
 
 
 ## Ekran Görüntüleri
